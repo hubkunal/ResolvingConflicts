@@ -1,0 +1,15 @@
+D:\Projects\ResolvingConflicts\ResolvingConflicts\bin\Debug\net6.0\ResolvingConflicts.exe
+D:\Projects\ResolvingConflicts\ResolvingConflicts\bin\Debug\net6.0\ResolvingConflicts.deps.json
+D:\Projects\ResolvingConflicts\ResolvingConflicts\bin\Debug\net6.0\ResolvingConflicts.runtimeconfig.json
+D:\Projects\ResolvingConflicts\ResolvingConflicts\bin\Debug\net6.0\ResolvingConflicts.dll
+D:\Projects\ResolvingConflicts\ResolvingConflicts\bin\Debug\net6.0\ref\ResolvingConflicts.dll
+D:\Projects\ResolvingConflicts\ResolvingConflicts\bin\Debug\net6.0\ResolvingConflicts.pdb
+D:\Projects\ResolvingConflicts\ResolvingConflicts\obj\Debug\net6.0\ResolvingConflicts.csproj.AssemblyReference.cache
+D:\Projects\ResolvingConflicts\ResolvingConflicts\obj\Debug\net6.0\ResolvingConflicts.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\ResolvingConflicts\ResolvingConflicts\obj\Debug\net6.0\ResolvingConflicts.AssemblyInfoInputs.cache
+D:\Projects\ResolvingConflicts\ResolvingConflicts\obj\Debug\net6.0\ResolvingConflicts.AssemblyInfo.cs
+D:\Projects\ResolvingConflicts\ResolvingConflicts\obj\Debug\net6.0\ResolvingConflicts.csproj.CoreCompileInputs.cache
+D:\Projects\ResolvingConflicts\ResolvingConflicts\obj\Debug\net6.0\ResolvingConflicts.dll
+D:\Projects\ResolvingConflicts\ResolvingConflicts\obj\Debug\net6.0\ref\ResolvingConflicts.dll
+D:\Projects\ResolvingConflicts\ResolvingConflicts\obj\Debug\net6.0\ResolvingConflicts.pdb
+D:\Projects\ResolvingConflicts\ResolvingConflicts\obj\Debug\net6.0\ResolvingConflicts.genruntimeconfig.cache
