@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\ResolvingConflicts\\ResolvingConflicts\\ResolvingConflicts.csproj",
+      "projectUniqueName": "D:\\Projects\\forkTesting\\ResolvingConflicts\\ResolvingConflicts\\ResolvingConflicts.csproj",
       "projectName": "ResolvingConflicts",
-      "projectPath": "D:\\Projects\\ResolvingConflicts\\ResolvingConflicts\\ResolvingConflicts.csproj",
+      "projectPath": "D:\\Projects\\forkTesting\\ResolvingConflicts\\ResolvingConflicts\\ResolvingConflicts.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\ResolvingConflicts\\ResolvingConflicts\\obj\\",
+      "outputPath": "D:\\Projects\\forkTesting\\ResolvingConflicts\\ResolvingConflicts\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

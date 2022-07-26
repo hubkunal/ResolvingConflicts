@@ -8,7 +8,8 @@ namespace ResolvingConflicts
         {
             Console.WriteLine("Hello World from Main branch- update content");
             Console.WriteLine("Adding more information in the main branch");
-            
+
+            Console.WriteLine("Hello World from Forked branch");
         }
     }
 }
