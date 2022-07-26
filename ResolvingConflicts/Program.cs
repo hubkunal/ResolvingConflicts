@@ -6,8 +6,9 @@ namespace ResolvingConflicts
     {
         static async Task Main(string[] args)
         {
-            Console.WriteLine("Hello World from Main branch");
+            Console.WriteLine("Hello World from Main branch- update content");
             Console.WriteLine("Adding more information in the main branch");
+            
         }
     }
 }
